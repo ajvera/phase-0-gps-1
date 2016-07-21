@@ -1,4 +1,4 @@
-# phase-0-gps-1
+# Phase 0 GPS 1
 repo for gps 1.1
   381  ls - lists the files and directories in the PWD
   382  cd - Changes directories
