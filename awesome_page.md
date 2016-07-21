@@ -5,4 +5,5 @@
 ```
 This is a code block
 ```
-(https://raw.githubusercontent.com/ajvera/phase-0-gps-1/master/gps_screenshot.png)
+Here is a screenshot of our gps:
+![alt text](https://raw.githubusercontent.com/ajvera/phase-0-gps-1/master/gps_screenshot.png)
